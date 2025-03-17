@@ -2,18 +2,17 @@
 
 Copy URLs is a Chrome extension that makes it easy to copy URLs from tabs.
 
-## Features
+With just one click, you can copy the URL of all open tabs to your clipboard in various formats.
 
-- Copy the current page URL with just one click
-- Batch copy URLs from all open tabs
-- Output copied URLs in customizable formats
+## Export Formats
 
-## How to Use
-
-1. Click the extension icon to launch CopyURLs
-2. Perform any of the following operations:
-   - Copy the current page URL: Click the icon
-   - Copy URLs from all open tabs: Select "Copy All Tab URLs" from the menu
+- URLs only
+- Title + URL pairs
+- JSON URL Array
+- JSON 2D Array with titles
+- JSON Object Array with title/URL properties
+- CSV
+- TSV
 
 ## Installation
 
