@@ -17,8 +17,8 @@ With just one click, you can copy the URL of all open tabs to your clipboard in 
 ## Installation
 
 - For Google Chrome  
-https://chrome.google.com/webstore/detail/...
+https://chromewebstore.google.com/detail/copy-urls/mpfphembnfodfcjbfckadekeenldcdco
 - For Mozilla Firefox  
 https://addons.mozilla.org/en-US/firefox/addon/copy-urls/
 - For Microsoft Edge  
-https://microsoftedge.microsoft.com/addons/detail/...
+https://microsoftedge.microsoft.com/addons/detail/copy-urls/oomjndmjepdgkbpppgdahdgcnfmlhopi
